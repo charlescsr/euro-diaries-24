@@ -1,0 +1,20 @@
+{
+    "name": "Euro Diaries 2024",
+    "short_name": "Euro Diaries 2024",
+    "start_url": "http://localhost:1313/euro-diaries-the-sequel/",
+    "theme_color": "#434648",
+    "background_color": "#131418",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/euro-diaries-the-sequel/icons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/euro-diaries-the-sequel/icons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/euro-diaries-the-sequel/posts/groups/</loc>
+    <lastmod>2024-05-31T22:05:46+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/euro-diaries-the-sequel/posts/</loc>
+    <lastmod>2024-05-31T22:05:46+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/euro-diaries-the-sequel/</loc>
+    <lastmod>2024-05-31T22:05:46+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/euro-diaries-the-sequel/posts/duration/</loc>
+    <lastmod>2024-05-30T12:23:18+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/euro-diaries-the-sequel/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/euro-diaries-the-sequel/tags/</loc>
+  </url>
+</urlset>

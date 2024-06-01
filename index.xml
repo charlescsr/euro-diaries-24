@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Euro Diaries 2024</title>
+    <link>http://localhost:1313/euro-diaries-the-sequel/</link>
+    <description>Recent content on The Euro Diaries 2024</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 31 May 2024 22:05:46 +0530</lastBuildDate><atom:link href="http://localhost:1313/euro-diaries-the-sequel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Euro 2024 - Groups</title>
+      <link>http://localhost:1313/euro-diaries-the-sequel/posts/groups/</link>
+      <pubDate>Fri, 31 May 2024 22:05:46 +0530</pubDate>
+      
+      <guid>http://localhost:1313/euro-diaries-the-sequel/posts/groups/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Euro 2024 - Duration</title>
+      <link>http://localhost:1313/euro-diaries-the-sequel/posts/duration/</link>
+      <pubDate>Thu, 30 May 2024 12:23:18 +0530</pubDate>
+      
+      <guid>http://localhost:1313/euro-diaries-the-sequel/posts/duration/</guid>
+      
+      <description>15th June 2024 - 15th July 2024</description>
+      
+    </item>
+    
+  </channel>
+</rss>

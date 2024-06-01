@@ -1,7 +1,7 @@
 {
     "name": "Euro Diaries 2024",
     "short_name": "Euro Diaries 2024",
-    "start_url": "http://localhost:1313/euro-diaries-24/",
+    "start_url": "https://charlescsr.github.io/euro-diaries-24/",
     "theme_color": "#434648",
     "background_color": "#131418",
     "display": "standalone",
